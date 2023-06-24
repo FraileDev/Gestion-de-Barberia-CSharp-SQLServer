@@ -1,0 +1,131 @@
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\bin\Debug\BarberH.exe.config
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\bin\Debug\BarberH.exe
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\bin\Debug\BarberH.pdb
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.csproj.AssemblyReference.cache
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.Calendarizacion.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.DespliegueActividad2.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.DespliegueHorario.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.FormCliente.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.FormRegistro.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.InicioDeSesion.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.Inventario.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.Menu.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.Properties.Resources.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.RegistroDeUsuario.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.Ventas.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.csproj.GenerateResource.cache
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.exe
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.pdb
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\BarberH.AgregarBarbero.resources
+C:\Users\luis_\OneDrive\Escritorio\Barberia Ultima Union\BarberH\BarberH\obj\Debug\Perfil_barberos.Perfil_Barberos.resources
+C:\Users\garev\source\repos\BarberH\BarberH\bin\Debug\BarberH.exe.config
+C:\Users\garev\source\repos\BarberH\BarberH\bin\Debug\BarberH.exe
+C:\Users\garev\source\repos\BarberH\BarberH\bin\Debug\BarberH.pdb
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.csproj.AssemblyReference.cache
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.csproj.SuggestedBindingRedirects.cache
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.AgregarBarbero.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.Calendarizacion.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.DespliegueActividad2.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.DespliegueHorario.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.FormCliente.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.FormRegistro.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.InicioDeSesion.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.Inventario.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.Menu.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\Perfil_barberos.Perfil_Barberos.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.Properties.Resources.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.RegistroDeUsuario.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.Ventas.resources
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.csproj.GenerateResource.cache
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.csproj.CoreCompileInputs.cache
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.exe
+C:\Users\garev\source\repos\BarberH\BarberH\obj\Debug\BarberH.pdb
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\bin\Debug\BarberH.exe.config
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\bin\Debug\BarberH.exe
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\bin\Debug\BarberH.pdb
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.csproj.AssemblyReference.cache
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.AgregarBarbero.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.Calendarizacion.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.DespliegueActividad2.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.DespliegueHorario.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.FormCliente.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.FormRegistro.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.InicioDeSesion.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.Inventario.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.Menu.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\Perfil_barberos.Perfil_Barberos.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.Properties.Resources.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.RegistroDeUsuario.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.Ventas.resources
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.csproj.GenerateResource.cache
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.csproj.CoreCompileInputs.cache
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.exe
+C:\Users\italo\Downloads\FFFFFFFFFFFFF\BarberH\BarberH\obj\Debug\BarberH.pdb
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\bin\Debug\BarberH.exe.config
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\bin\Debug\BarberH.exe
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\bin\Debug\BarberH.pdb
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.csproj.AssemblyReference.cache
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.AgregarBarbero.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.Calendarizacion.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.DespliegueActividad2.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.DespliegueHorario.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.FormCajachica.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.FormCliente.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.FormRegistro.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.InicioDeSesion.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.Inventario.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.Menu.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\Perfil_barberos.Perfil_Barberos.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.Properties.Resources.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.RegistroDeUsuario.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.Ventas.resources
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.csproj.GenerateResource.cache
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.csproj.CoreCompileInputs.cache
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.exe
+C:\Users\Aldo\Dropbox\PC\Desktop\Ultimo modulo\BarberH\obj\Debug\BarberH.pdb
+C:\Users\garev\source\repos\BarberH\bin\Debug\BarberH.exe.config
+C:\Users\garev\source\repos\BarberH\bin\Debug\BarberH.exe
+C:\Users\garev\source\repos\BarberH\bin\Debug\BarberH.pdb
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.csproj.AssemblyReference.cache
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.csproj.SuggestedBindingRedirects.cache
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.AgregarBarbero.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.Calendarizacion.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.DespliegueActividad2.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.DespliegueHorario.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.FormCajachica.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.FormCliente.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.FormRegistro.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.InicioDeSesion.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.Inventario.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.Menu.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\Perfil_barberos.Perfil_Barberos.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.Properties.Resources.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.RegistroDeUsuario.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.Ventas.resources
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.csproj.GenerateResource.cache
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.csproj.CoreCompileInputs.cache
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.exe
+C:\Users\garev\source\repos\BarberH\obj\Debug\BarberH.pdb
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\bin\Debug\BarberH.exe.config
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\bin\Debug\BarberH.exe
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\bin\Debug\BarberH.pdb
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.csproj.AssemblyReference.cache
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.AgregarBarbero.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.Calendarizacion.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.DespliegueActividad2.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.DespliegueHorario.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.FormCajachica.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.FormCliente.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.FormRegistro.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.InicioDeSesion.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.Inventario.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.Menu.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\Perfil_barberos.Perfil_Barberos.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.Properties.Resources.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.RegistroDeUsuario.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.Ventas.resources
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.csproj.GenerateResource.cache
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.exe
+C:\Users\Alexis\Documents\UNIVERCIDAD\Ciclo Vll\Proyectos de informatica\BarberH (1)\BarberH\obj\Debug\BarberH.pdb

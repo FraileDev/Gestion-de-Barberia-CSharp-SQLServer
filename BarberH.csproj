@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7F893F37-F3E7-4E43-AF04-D89B3FC8CD76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BarberH</RootNamespace>
+    <AssemblyName>BarberH</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarBarbero.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarBarbero.Designer.cs">
+      <DependentUpon>AgregarBarbero.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\actividad.cs" />
+    <Compile Include="clases\Barbero.cs" />
+    <Compile Include="clases\CajaChica.cs" />
+    <Compile Include="clases\CajaDiaria.cs" />
+    <Compile Include="clases\Servicio.cs" />
+    <Compile Include="CRUDs\actividadCRUD.cs" />
+    <Compile Include="Calendarizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Calendarizacion.Designer.cs">
+      <DependentUpon>Calendarizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\Cliente.cs" />
+    <Compile Include="conexion\DB_Conexion.cs" />
+    <Compile Include="CRUDs\AgregarBarbero.cs" />
+    <Compile Include="CRUDs\AgregarDatosServicio.cs" />
+    <Compile Include="CRUDs\CajaDiariaCRUD.cs" />
+    <Compile Include="CRUDs\CRUDcliente.cs" />
+    <Compile Include="CRUDs\MostrarDatosDgv.cs" />
+    <Compile Include="CRUDs\ProductoCRUD.cs" />
+    <Compile Include="clases\AdministradorDB.cs" />
+    <Compile Include="CRUDs\IniciarSesion.cs" />
+    <Compile Include="CRUDs\Registrarse.cs" />
+    <Compile Include="DespliegueActividad2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DespliegueActividad2.Designer.cs">
+      <DependentUpon>DespliegueActividad2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DespliegueHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DespliegueHorario.Designer.cs">
+      <DependentUpon>DespliegueHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCajachica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCajachica.Designer.cs">
+      <DependentUpon>FormCajachica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCliente.Designer.cs">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRegistro.Designer.cs">
+      <DependentUpon>FormRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\horario.cs" />
+    <Compile Include="CRUDs\horarioCRUD.cs" />
+    <Compile Include="InicioDeSesion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="InicioDeSesion.Designer.cs">
+      <DependentUpon>InicioDeSesion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inventario.Designer.cs">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\Producto.cs" />
+    <Compile Include="Perfil_Barberos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfil_Barberos.Designer.cs">
+      <DependentUpon>Perfil_Barberos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistroDeUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroDeUsuario.Designer.cs">
+      <DependentUpon>RegistroDeUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="clases\ticket.cs" />
+    <Compile Include="CRUDs\ticketCRUD.cs" />
+    <Compile Include="Validaciones.cs" />
+    <Compile Include="Validaciones2.cs" />
+    <Compile Include="Ventas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ventas.Designer.cs">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarBarbero.resx">
+      <DependentUpon>AgregarBarbero.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Calendarizacion.resx">
+      <DependentUpon>Calendarizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DespliegueActividad2.resx">
+      <DependentUpon>DespliegueActividad2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DespliegueHorario.resx">
+      <DependentUpon>DespliegueHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCajachica.resx">
+      <DependentUpon>FormCajachica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCliente.resx">
+      <DependentUpon>FormCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRegistro.resx">
+      <DependentUpon>FormRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="InicioDeSesion.resx">
+      <DependentUpon>InicioDeSesion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inventario.resx">
+      <DependentUpon>Inventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfil_Barberos.resx">
+      <DependentUpon>Perfil_Barberos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistroDeUsuario.resx">
+      <DependentUpon>RegistroDeUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ventas.resx">
+      <DependentUpon>Ventas.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-de-combinación-para-categoría-rango-y-serie-clase-jerarquía-logotipo-159893237.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perfil-empty1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing.com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing_com.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngwing_com1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\perfil-empty2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-de-combinación-para-categoría-rango-y-serie-clase-jerarquía-logotipo-1598932371.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
